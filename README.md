@@ -62,6 +62,20 @@ EduMarshal is a comprehensive student management app that allows students to:
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/964a5189-2a09-4574-b932-af82fe195c1d)
 ![attendance2](https://github.com/user-attachments/assets/687b9c62-a0f6-4ec8-ab2d-e450faf899a2)
+![attendance3](https://github.com/user-attachments/assets/49cf4eb6-0396-4544-8c65-d680de4b1b68)
+![documents](https://github.com/user-attachments/assets/8530a7dd-f909-4e96-821b-f1747fd1441f)
+![events](https://github.com/user-attachments/assets/8c5dc60e-6b8e-48fd-afad-2fcef6cd2b2f)
+![home_edu](https://github.com/user-attachments/assets/2a606f77-937b-486d-abf8-64dc6cdb5f88)
+![home2](https://github.com/user-attachments/assets/4eba0222-6140-49d2-9d25-f7e282e98576)
+![info](https://github.com/user-attachments/assets/85e1ca06-59fb-4863-a624-877fef59d021)
+![personal information](https://github.com/user-attachments/assets/f009ace4-1738-4327-a1c6-ccb7ed53896c)
+![processing](https://github.com/user-attachments/assets/42110e58-5640-48f8-9ea8-29a43a2f73f4)
+![sidebar](https://github.com/user-attachments/assets/52e0b972-9b91-4fda-898e-5622f942446f)
+![subjects](https://github.com/user-attachments/assets/aaae2b06-c2a6-4760-89f3-f9bccc6f4cb0)
+![timetable](https://github.com/user-attachments/assets/20df73e9-705b-4af1-9500-b44d1a00018f)
+![upload](https://github.com/user-attachments/assets/b9584878-4f85-4419-a4cb-7e08a4a9bf07)
+![uploaded](https://github.com/user-attachments/assets/b7366e73-c27e-4f8b-97fb-08f421f818eb)
+
 
 
 
